@@ -5,8 +5,6 @@ Claude and n8n systems challenge.
 
 webhook_handler.py — a webhook lead capture and 
 enquiry classification utility. Originally created 
-as a code review exercise for Day 11 of the course. 
+as a code review exercise for Day 11 of the challenge. 
 Contains intentional bugs that were identified and 
 fixed using Claude as a code review tool.
-
-Built by Philemon Firone | Automation Specialist

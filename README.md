@@ -1,7 +1,7 @@
 # philemon-automation-utils
 
 Python automation utilities built during a 30-day 
-Claude and n8n systems course.
+Claude and n8n systems challenge.
 
 webhook_handler.py — a webhook lead capture and 
 enquiry classification utility. Originally created 
